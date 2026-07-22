@@ -127,9 +127,9 @@ A job searching and recruitment platform.
 
 ## 📫 Contact
 
-📧 Email: Your_Email_Here
+📧 Email: malviakash7666@gmail.com
 
-🌐 Portfolio: Your_Portfolio_Link
+🌐 Portfolio: https://akashhotteok-00bf0e.netlify.app
 
 
 ---
